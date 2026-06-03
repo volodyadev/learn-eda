@@ -1,0 +1,1 @@
+# Golang kafka/rabbitmq samples
